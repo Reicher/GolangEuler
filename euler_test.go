@@ -5,7 +5,7 @@ import (
 	"github.com/reicher/euler"
 )
 
-var answers = []int {233168, 4613732, 6857, 906609,232792560, 25164150, 104743}
+var answers = []int {233168, 4613732, 6857, 906609,232792560, 25164150, 104743, 23514624000}
 
 func TestFactorization(t *testing.T) {
 	n := 59855985
